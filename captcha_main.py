@@ -5,7 +5,7 @@ import string
 import os
 
 
-# had a problem where capital letters were to hard to differentiate so I made it so that it doesn't matter it so its all lowercase.
+# had a problem where capital letters were too hard to differentiate so I made it so that it doesn't matter it so its all lowercase.
 a_n = string.ascii_letters.lower()
  
 # Create an image instance of the given size
